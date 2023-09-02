@@ -1,7 +1,7 @@
 ### Hi there 👋
-##LUIS EDUARDO JIMENEZ DIAZ
+## My name is LUIS EDUARDO JIMENEZ DIAZ
 
-I am an international student pursuing a Master's in Electrical Engineering at **Cal State LA**. I did my bachelors in Mexico at **Universidad Autonoma de Aguascalientes**, with a major in `Biomedical Engineering`. Before coming to Cal State LA, I used to work as Service Engineer giving preventive and corrective maintenance to biomedical equipment. I am also vice president of a student organization, BMES (_Biomedical Engineering Society_), and my current research focuses on TMS (_Transcranial Magnetic Stimulation_) / EEG analysis.
+I am an international student pursuing a `Master's in Electrical Engineering` at **Cal State LA**. I did my bachelors in Mexico at **Universidad Autonoma de Aguascalientes**, with a major in `Biomedical Engineering`. Before coming to Cal State LA, I used to work as Service Engineer giving preventive and corrective maintenance to biomedical equipment. I am also vice president of a student organization, BMES (_Biomedical Engineering Society_), and my current research focuses on TMS (_Transcranial Magnetic Stimulation_) / EEG analysis.
 
 <!--
 **LuisWardo/LuisWardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
